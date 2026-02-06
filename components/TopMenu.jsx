@@ -31,7 +31,7 @@ const TopMenu = () => {
             </div>
           </div>
 
-          <a href="https://drive.google.com/file/d/1aBR_H3pqlgPh2PLO7LMnXNPZc7X1Ybpt/view"><button className="bg-dark-blue text-white px-4 py-1 rounded-md hover:bg-dark-blue/75">Download CV</button></a>
+          <a href="https://drive.google.com/file/d/1IE-JjHHlW5lVn4hICMlfVqW1IEV8PfE1/view?usp=sharing"><button className="bg-dark-blue text-white px-4 py-1 rounded-md hover:bg-dark-blue/75">Download CV</button></a>
         </div>
       </div>
     </div>
@@ -39,3 +39,4 @@ const TopMenu = () => {
 };
 
 export default TopMenu;
+
