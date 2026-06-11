@@ -92,7 +92,7 @@ const SideMenu = () => {
               <a href="https://www.linkedin.com/in/akash-gupta-87a86521b/" target="_blank" className="social-icon text-white">
                 <AiFillLinkedin />
               </a>
-              <a href="https://github.com/akashgupta1905" target="_blank" className="social-icon text-white">
+              <a href="https://github.com/akashgupta-code" target="_blank" className="social-icon text-white">
                 <AiFillGithub />
               </a>
             </div>

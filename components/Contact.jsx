@@ -50,7 +50,7 @@ const Contact = () => {
               <div className="flex flex-col gap-2">
                 <h5 className="text-dark-blue">Socials</h5>
                 <div className="flex gap-5">
-                  <a href="https://github.com/akashgupta1905" target="_blank" className="text-3xl text-dark-blue">
+                  <a href="https://github.com/akashgupta-code" target="_blank" className="text-3xl text-dark-blue">
                     <AiFillGithub />
                   </a>
                   <a href="https://www.linkedin.com/in/akash-gupta-87a86521b/" target="_blank" className="text-3xl text-dark-blue">
