@@ -9,9 +9,9 @@ export const projects = [
   },
   {
     name: "Airbnb Clone",
-    githubUrl: "https://github.com/akashgupta-code/Airbnb-Clone-Final",
+    githubUrl: "https://github.com/akashgupta-code/AirBnB",
     image: "../../assets/Airbnb-clone.png",
-    projectUrl: "https://akashgupta-code.github.io/Airbnb-Clone-Final/",
+    projectUrl: "https://airbnb-clone-indol-psi.vercel.app/",
     deployed: true,
     category: ["fs"],
   },
@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     name: "React Calculator",
-    githubUrl: "https://github.com/akashgupta-code/React_Calc",
+    githubUrl: "https://github.com/akashgupta-code/Calculator",
     image: "../../assets/react calculator.png",
     projectUrl: "https://react-calc-alpha.vercel.app/",
     deployed: true,
@@ -33,7 +33,7 @@ export const projects = [
   },
   {
     name: "Youtube Clone",
-    githubUrl: "https://github.com/akashgupta-code/Youtube-Clone",
+    githubUrl: "https://github.com/akashgupta-code/Youtube",
     image: "../../assets/youtube-clone-project.png",
     projectUrl: "https://akashgupta-code.github.io/Youtube-Clone/",
     deployed: true,
@@ -41,7 +41,7 @@ export const projects = [
   },
   {
     name: "Google Sheet Clone",
-    githubUrl: "https://github.com/akashgupta-code/Google-sheet-clone",
+    githubUrl: "https://github.com/akashgupta-code/Google_sheet",
     image: "../../assets/Google_sheet_clone.png",
     projectUrl: "https://akashgupta-code.github.io/Google-sheet-clone/",
     deployed: true,
@@ -57,7 +57,7 @@ export const projects = [
   },
   {
     name: "User IP-Address",
-    githubUrl: "https://github.com/akashgupta-code/user-IP-address",
+    githubUrl: "https://github.com/akashgupta-code/User-IP",
     image: "../../assets/IP-address.png",
     projectUrl: "https://akashgupta-code.github.io/user-IP-address/",
     deployed: true,
@@ -71,19 +71,18 @@ export const projects = [
   },
   {
     name: "Crypto currency",
-    githubUrl: "https://github.com/akashgupta-code/Cruptocurrency",
+    githubUrl: "https://github.com/akashgupta-code/Cryptocurrency",
     image: "../../assets/Cryptocurrency.png",
-    projectUrl: "https://akashgupta-code.github.io/Cruptocurrency/",
+    projectUrl: "https://akashgupta-code.github.io/Cryptocurrency/",
     deployed: true,
     category: ["vanilla"],
   },
   {
     name: "Cookpal",
-    githubUrl: "https://github.com/akashgupta-code/F2-MODULE_TEST",
+    githubUrl: "https://github.com/akashgupta-code/Restaurant",
     image: "../../assets/Cookpal-clone.png",
-    projectUrl: "https://akashgupta-code.github.io/F2-MODULE_TEST/",
+    projectUrl: "https://akashgupta-code.github.io/Restaurant/",
     deployed: true,
     category: ["vanilla"],
   },
-  
 ];
