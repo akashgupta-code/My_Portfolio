@@ -31,7 +31,7 @@ const TopMenu = () => {
             </div>
           </div>
 
-          <a href="https://drive.google.com/file/d/110wRJpXc7XNKoZhuTJ029f9TjeVerPKc/view?usp=sharing"><button className="bg-dark-blue text-white px-4 py-1 rounded-md hover:bg-dark-blue/75">Download CV</button></a>
+          <a href="https://drive.google.com/file/d/19i6d8BgUnOOGb1jyaacZptcqhA8KCDCC/view?usp=sharing"><button className="bg-dark-blue text-white px-4 py-1 rounded-md hover:bg-dark-blue/75">Download CV</button></a>
         </div>
       </div>
     </div>
